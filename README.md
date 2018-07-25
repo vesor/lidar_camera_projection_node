@@ -1,6 +1,6 @@
 # lidar to camera projection
 
-lidar to camera projection node project the lidar points onto camera images.
+This app project the lidar points onto camera images.
 
 You need to provide a rough estimate for the initial Rt matrix, then fine tune it manually using this app. 
 
