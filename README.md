@@ -4,7 +4,13 @@ This app project the lidar points onto camera images.
 
 You need to provide a rough estimate for the initial Rt matrix, then fine tune it manually using this app. 
 
-Hotkeys: w/s e/d r/f for rotation, u/j i/k o/l for translation.
+## Hotkeys
+
+Change rotation: w/s e/d r/f
+
+Change translation: u/j i/k o/l
+
+Print Rt matrix: Enter
 
 ## how to build
 
